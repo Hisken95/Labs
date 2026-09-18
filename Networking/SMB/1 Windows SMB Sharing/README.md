@@ -4,7 +4,6 @@
 Lære om SMB protokollen ved å dele en mappe over nettverket ved bruk av SMB. Dette skal jeg gjøre med å dele en mappe fra windows PCen og åpne mappen med en annen PC.
 
 ## Utstyr, Oppsett og ressurser
-- Stasjonær PC med Fedora KDE
 - Laptop med Fedora KDE
 - Laptop med Windows 11
 - Alle er på samme hjemmenettverk.
